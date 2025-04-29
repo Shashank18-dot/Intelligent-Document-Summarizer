@@ -88,7 +88,7 @@ Security: Integrate OAuth or API‑key protection on the Streamlit app for priva
 
 📜 License
 
-This project is licensed under the MIT License. Feel free to adapt, improve, and share!
+This project is licensed under the Apache-2.0 license. Feel free to adapt, improve, and share!
 
 🔗 Happy summarizing!Questions or suggestions? Open an issue or send a pull request.
 
